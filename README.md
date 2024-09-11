@@ -9,5 +9,4 @@
 | Название | Описание | Стек |
 | ---------------------- | --------- | ---- |
 | [e-learning](https://github.com/ilichevasv/e-learning) | Анализ популярности курсов и предметов, определение самого сложного и простого курсов, построение RFM-кластеризации | Python (pandas, matplotlib, seaborn), Jupyter Notebook |
-| Проведение AB-тестирования для приложения доставки | *Описание в процессе* | Python (pandas, scipy.stats, seaborn, matplotlib, numpy), Jupyter Notebook |
-| Hospitality Overview | *Описание в процессе*  | Tableau |
+| [Проверка результатов АБ-тестирования для приложения доставки](https://github.com/ilichevasv/ab_delivery_app) | Анализ набора данных. Выбор и расчет продуктовых метрик. Статистическая проверка гипотез и результатов АБ-тестирования для внедрения новой системы рекомендации товаров (t-тест). | Python (pandas, scipy.stats, seaborn, matplotlib, numpy), Jupyter Notebook |
